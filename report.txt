@@ -1,3 +1,5 @@
 Here is a text file.
 I made this file locally and will push it to my remote repo.
 
+Now I am making changes to the remote version of this file.
+What will happen?
