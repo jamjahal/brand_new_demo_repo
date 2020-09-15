@@ -1,3 +1,5 @@
 Here is a text file.
 I made this file locally and will push it to my remote repo.
 
+I am also making changes locally simultaniously.
+This is important work I do not want to lose!
