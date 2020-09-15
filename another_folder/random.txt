@@ -28,3 +28,23 @@ There is plenty of room below for remote edits.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These are remote edits.  There is plenty of room above for local edits
+I wonder if these two can live happily together.
+
+If not there will be a merge conflict.  
+
+I hope that resolves itself.
